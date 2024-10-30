@@ -1,0 +1,154 @@
+.select_chk, .woocommerce-breadcrumb, .product_title.entry-title, .attr_list, #select-a-meal-plan {
+    display: none;
+}
+.variations {
+    margin: 0 auto;
+    width: 1204px;
+}
+.inner-page-dedetail {
+    clear: both;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+body .inner-page-right-btn a.started{ background:none !important; margin:0px !important; padding:0px !important}
+body .inner-page-right-btn a.started img{ width:auto !important}
+.inner-page-dedetail-title {
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    color: #86ac13;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 15px 0;
+}
+.included {
+    color: #f6862a;
+    display: none;
+    float: right;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: -49px;
+    position: relative;
+    width: 70.5%;
+}
+.inner-page-dedetail-left {
+    float: left;
+    margin: 0;
+    padding: 20px 0 0;
+    width: 290px;
+}
+.inner-page-dedetail-right {
+    float: right;
+    margin: 0;
+    padding: 0;
+    width: 885px;
+}
+.dedetail-box {
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+}
+.redio-button {
+    margin: 20px 0;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+}
+.redio-button input {
+    height: 14px;
+    width: 14px;
+}
+.dedetail-box-icon {
+    clear: both;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.dedetail-box-text span {
+    color: #86ac13;
+}
+.dedetail-box-text {
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 0;
+    text-align: center;
+}
+.dedetail-box-text {
+    color: #f6862a;
+}
+.woocommerce h2 {
+    margin: 0;
+}
+	
+/*start by wds*/
+.wds_meal_customizer_div .inner-page-dedetail-title {color:#000000; font-size:18px; line-height:22px;}
+.wds_meal_customizer_div .included {color: #808080; display: none; float: right; font-size: 14px; position: relative; width: 72%; margin-top:-39px;}
+.wds_meal_customizer_div .inner-page-dedetail-right {width:100%;}
+.wds_meal_customizer_div .dedetail-box-text {margin-left:1%; margin-right:1%; color:#000000; line-height:16px; font-size:12px; margin-top:0px; margin-bottom:0px;}
+.wds_meal_customizer_div .dedetail-box-text span {color:#808080 !important;}
+.wds_meal_customizer_div .inner-page-dedetail-left { width:30%; padding-bottom:20px;}
+.wds_meal_customizer_div .inner-page-dedetail-left > h2 {font-size: 16px; line-height:22px;}
+.wds_meal_customizer_div .inner-page-dedetail-left p { font-size:12px; line-height:16px;}
+.wds_meal_customizer_div .inner-page-dedetail-right {padding-top: 20px; width: 70%; padding-bottom:20px;}
+.wds_meal_customizer_div .inner-page-dedetail-right select {margin-right: 0 !important; min-width: 30% !important; margin-top:10px; font-size:12px;}
+.wds_meal_customizer_div .inner-page-dedetail-right textarea {border:1px solid #808080; background:none;}
+.wds_meal_customizer_div .product-dedetail-box span {color: #808080; float: right; margin: 0 0 0 11px; padding: 0; text-align: left; width: 32%;}
+.wds_meal_customizer_div .product-dedetail-box span #deliveryselect {
+  float: left;
+  width: auto;
+  margin-left:auto;
+}
+.wds_meal_customizer_div .product-dedetail-box span #deliveryselect input[type="text"]{
+padding: 4px 10px; font-size: 13px; font-weight: normal;
+}
+.wds_meal_customizer_div .product-dedetail-box p {color: #000; font-size: 14px; font-weight: normal; margin: 8px 0px; padding: 0px;  text-align: right; width: 100%; float:left}
+.wds_meal_customizer_div .product-price {border-top: 1px solid #ccc; clear: both; color: #808080; font-size: 18px; line-height: 24px; margin: 0; padding: 15px 0; text-align: right; width: 100%;}
+.wds_meal_customizer_div .product-price span {float: right; padding-left: 5px !important; text-align: left !important;  width: 33.5% !important;}
+.wds_meal_customizer_div .add-to-cart-row {background:#e4e4e4 !important; padding:10px 0px;}
+.wds_meal_customizer_div .add-to-cart-row button.single_add_to_cart_button {background: #000 !important; border-radius: 0; float: none !important; margin:0px; padding:0px 15px 0px 15px; height:36px;}
+.wds_meal_customizer_div .add-to-cart-row .add-to-cart-box {text-align: right; padding-right: 10px;}
+.wds_meal_customizer_div .add-to-cart-row .add-to-cart-btn {display: inline-block; vertical-align:top;}
+.wds_meal_customizer_div .add-to-cart-row .date-picker {display: inline-block; vertical-align:top;}
+.wds_meal_customizer_div .add-to-cart-row .date-picker input { padding:0px 0px 0px 10px; height:36px; background:#fff;}
+.wds_meal_customizer_div .redio-button { margin-top:0px; margin-bottom:0px;}
+.wds_meal_customizer_div .dedetail-box-icon { margin-bottom:10px;}
+.wds_meal_customizer_div input[type="checkbox"], 
+.wds_meal_customizer_div input[type="radio"] { margin-right:0px;}
+.wds_meal_customizer_div input[type="checkbox"] {margin-top: 5px; margin-bottom:5px;}
+.wds_meal_customizer_div .dedetail-box {float:none; display:inline-block; vertical-align:top; margin-left:-2px; margin-right:-2px;}
+
+@media only screen and (max-width: 1199px) {
+.wds_meal_customizer_div .included {width: 70%;}
+.wds_meal_customizer_div .included {margin-top: 4px; width: 100%; text-align:center;}
+
+}
+
+@media only screen and (max-width: 991px) {
+.wds_meal_customizer_div .dedetail-box {width: 50%;}
+.wds_meal_customizer_div .add-to-cart-row .date-picker input {width: 170px; font-size: 12px;}
+}
+
+@media only screen and (max-width: 767px) {
+.wds_meal_customizer_div .included {font-size: 12px;}
+.wds_meal_customizer_div .inner-page-dedetail-left {padding-bottom: 0; width: 100%;}
+.wds_meal_customizer_div .inner-page-dedetail-right {width: 100%; text-align:center;}
+.wds_meal_customizer_div .inner-page-dedetail-left p { padding:0px; margin:0px;}
+.wds_meal_customizer_div .product-dedetail-box p {font-size: 12px;}
+.wds_meal_customizer_div .product-dedetail-box span {width: 40%;}
+.wds_meal_customizer_div .product-price {font-size: 16px;}
+.wds_meal_customizer_div .product-price span {width: auto !important;}
+.wds_meal_customizer_div .add-to-cart-row .add-to-cart-box {text-align: center; padding-right: 0px;}
+}
+@media only screen and (max-width: 479px) {
+.wds_meal_customizer_div .product-dedetail-box span {width: 58%;}
+.wds_meal_customizer_div .add-to-cart-row .date-picker input {width: 100%;}
+.wds_meal_customizer_div .add-to-cart-row .date-picker {width: 90%;}
+.wds_meal_customizer_div .add-to-cart-row .add-to-cart-btn {width: 90%;}
+.wds_meal_customizer_div .add-to-cart-row button.single_add_to_cart_button {width: 100%; margin-bottom: 10px;}
+}
+
